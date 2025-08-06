@@ -1,0 +1,66 @@
+[
+  
+  
+  {
+    "folder": "happy",
+    "title": "Happy Hits!",
+    "description": "Hits to boost your mood and fill you with happiness!",
+    "cover": "songs/happy/cover.jpg"
+  },
+  {
+    "folder": "romantic",
+    "title": "Romantic Vibes",
+    "description": "Fall in love with these songs.",
+    "cover": "songs/romantic/cover.jpg"
+  },
+  {
+    "folder": "sad",
+    "title": "Soulful Sadness",
+    "description": "Let your emotions flow with these heartfelt tracks.",
+    "cover": "songs/sad/cover.jpg"
+  },
+  {
+    "folder": "party",
+    "title": "Party Time",
+    "description": "Turn up the energy and get the party started!",
+    "cover": "songs/party/cover.jpg"
+  },
+  {
+    "folder": "lofi",
+    "title": "Lo-Fi Chill",
+    "description": "Relax and focus with smooth lo-fi beats.",
+    "cover": "songs/lofi/cover.jpg"
+  },
+  {
+    "folder": "workout",
+    "title": "Workout Pump",
+    "description": "Fuel your fitness with high-energy beats.",
+    "cover": "songs/workout/cover.jpg"
+  },
+  {
+    "folder": "classic",
+    "title": "Golden Classics",
+    "description": "Timeless hits from legendary artists.",
+    "cover": "songs/classic/cover.jpg"
+  },
+  {
+    "folder": "travel",
+    "title": "Road Trip Tunes",
+    "description": "Perfect playlists for the open road.",
+    "cover": "songs/travel/cover.jpg"
+  },
+  {
+    "folder": "instrumental",
+    "title": "Instrumental Escape",
+    "description": "Instrumentals to soothe your soul and clear your mind.",
+    "cover": "songs/instrumental/cover.jpg"
+  },
+  {
+    "folder": "motivational",
+    "title": "Morning Motivation",
+    "description": "Start your day with uplifting and inspiring songs.",
+    "cover": "songs/motivational/cover.jpg"
+  }
+
+
+]
